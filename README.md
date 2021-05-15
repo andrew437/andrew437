@@ -1,0 +1,3 @@
+- 👋 Hello, I'm Andrew!
+- 🌱 I’m currently learning C++
+- 📫 Join my Discord server: https://discord.gg/RpKppBjBXC
